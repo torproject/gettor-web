@@ -1,6 +1,26 @@
-title: Welcome to GetTor!
+title: What is GetTor?
 ---
 body:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages.
+GetTor is a service that provides alternative methods to download the Tor Browser, especially for people living in places with high levels of censorship, where access to Tor Project's website is restricted.
+
+
+### How does it work?
+
+The idea behind GetTor is very simple:
+
+Step 1: Send a request to GetTor specifying your operating system (and optionally your locale).
+
+Step 2: GetTor will send you back a reply with links to download Tor Browser from our supported providers.
+
+Step 3: Download Tor Browser from one of the providers. When done, check the integrity of the downloaded files.
+
+Step 4: If required, get some bridges!
+
+### Channels
+
+You can make requests to GetTor using different channels of communication and different locales. At the present moment, we support the following locales: English (en), Farsi (fa), Chinese (zh), Turkish (tr), and the following channels:
+Email: you can make a request sending an email to gettor@torproject.org
+
+Quick example:
+To get links for downloading Tor Browser in English for Windows, send an email to gettor@torproject.org with the words "windows en" in the body of the message. 

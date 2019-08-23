@@ -1,2 +1,11 @@
 [project]
 name = GetTor
+url = https://gettor.torproject.org/
+url_style = relative
+locale = en
+
+[alternatives.en]
+name = English (en)
+primary = yes
+url_prefix = /
+locale = en
