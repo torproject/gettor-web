@@ -3,12 +3,14 @@ node_modules
 .sass-cache
 .DS_Store
 
+cache
+
 public
 *.mo
 *.po
 contents+*.lr
 
-.cache 
+*.ipynb*
 
 *.egg-info
 *.pyc
@@ -41,6 +43,8 @@ tramp
 # eshell files
 /eshell/history
 /eshell/lastdir
+
+node_modules
 
 # elpa packages
 /elpa/
