@@ -26,7 +26,7 @@ In GetTor emails we provide a link to a file with the same name as the package a
 They allow you to verify the file you've downloaded is exactly the one that we intended you to get.
 For example, `torbrowser-install-win64-8.5.4_en-US.exe` is accompanied by `torbrowser-install-win64-8.5.4_en-US.exe.asc`.
 
-Check [how to verify a digital signature](https://support.torproject.org/tbb/how-to-verify-signature/)
+Check [how to verify a digital signature](https://support.torproject.org/tbb/how-to-verify-signature/).
 
 ## How to get bridges
 
