@@ -39,10 +39,12 @@ Bridges are useful for Tor users under oppressive regimes, and for people who wa
 
 When you start TorBrowser for the first time you will be asked if you want to use bridges. To use pluggable transports, click 'Configure' in the Tor Launcher window that appears when you first run Tor Browser.
 
-You can also configure pluggable transports while Tor Browser is running by clicking on the onion icon to the left of the address bar, then selecting 'Tor Network Settings'.
+You can also configure pluggable transports while Tor Browser is running by selecting 'Preferences' from the settings menu to the right of the address bar. Once in Preferences, navigate to 'Tor Settings' from the menu on the left of the screen.
 
 Select 'Tor is censored in my country,' then click 'Select a built-in bridge.' Click on the drop-down menu and select the pluggable transport you'd like to use.
 
 Click 'OK' to save your settings.
+
+If built-in bridges do not work, you can also select 'Request a bridge from torproject.org'. This will require you solve a CAPTCHA and will automatically populate your settings with one or more bridges.
 
 Another way to get bridges is to send an email to bridges@torproject.org. Please note that you must send the email using an address from one of the following email providers: Riseup or Gmail.
