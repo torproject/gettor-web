@@ -4,11 +4,21 @@ url = https://gettor.torproject.org/
 url_style = relative
 locale = en
 
+[alternatives.ar]
+name = عربية (ar)
+url_prefix = /ar/
+locale = ar
+
 [alternatives.en]
 name = English (en)
 primary = yes
 url_prefix = /
 locale = en
+
+[alternatives.de]
+name = Deutsch
+url_prefix = /de/
+locale = de
 
 [alternatives.es]
 name = Español
@@ -20,6 +30,11 @@ name = Français
 url_prefix = /fr/
 locale = fr
 
+[alternatives.mk]
+name = Macedonian (mk)
+url_prefix = /mk/
+locale = mk
+
 [alternatives.pt-BR]
 name = Português (Brasil)
 url_prefix = /pt-BR/
@@ -29,3 +44,8 @@ locale = pt-BR
 name = Türkçe
 url_prefix = /tr/
 locale = tr
+
+[alternatives.zh-CN]
+name = 简体中文 (zh-CN)
+url_prefix = /zh-CN/
+locale = zh-CN
