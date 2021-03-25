@@ -24,3 +24,8 @@ locale = fr
 name = Português (Brasil)
 url_prefix = /pt-BR/
 locale = pt-BR
+
+[alternatives.tr]
+name = Türkçe
+url_prefix = /tr/
+locale = tr
