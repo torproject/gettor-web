@@ -9,36 +9,76 @@ name = عربية (ar)
 url_prefix = /ar/
 locale = ar
 
+[alternatives.de]
+name = Deutsch
+url_prefix = /de/
+locale = de
+
+[alternatives.el]
+name = Ελληνικά (el)
+url_prefix = /el/
+locale = el
+
 [alternatives.en]
 name = English (en)
 primary = yes
 url_prefix = /
 locale = en
 
-[alternatives.de]
-name = Deutsch
-url_prefix = /de/
-locale = de
-
 [alternatives.es]
 name = Español
 url_prefix = /es/
 locale = es
+
+[alternatives.fa]
+name = ﻑﺍﺮﺳی (fa)
+url_prefix = /fa/
+locale = fa
 
 [alternatives.fr]
 name = Français
 url_prefix = /fr/
 locale = fr
 
+[alternatives.he]
+name =  עברית (he)
+url_prefix = /he/
+locale = he
+
+[alternatives.id]
+name = Indonesia (id)
+url_prefix = /id/
+locale = id
+
+[alternatives.it]
+name = Italia (it)
+url_prefix = /it/
+locale = it
+
+[alternatives.ka]
+name = Georgian (ka)
+url_prefix = /ka/
+locale = ka
+
 [alternatives.mk]
 name = Macedonian (mk)
 url_prefix = /mk/
 locale = mk
 
+[alternatives.pl]
+name = Polski (pl)
+url_prefix = /pl/
+locale = pl
+
 [alternatives.pt-BR]
 name = Português (Brasil)
 url_prefix = /pt-BR/
 locale = pt-BR
+
+[alternatives.sq]
+name = Shqip (sq)
+url_prefix = /sq/
+locale = sq
 
 [alternatives.tr]
 name = Türkçe
