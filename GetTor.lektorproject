@@ -65,6 +65,11 @@ name = Macedonian (mk)
 url_prefix = /mk/
 locale = mk
 
+[alternatives.my]
+name = မြန်မာ (my)
+url_prefix = /my/
+locale = my
+
 [alternatives.pl]
 name = Polski (pl)
 url_prefix = /pl/
