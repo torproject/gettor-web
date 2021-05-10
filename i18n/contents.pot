@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-17 07:56+CET\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: (dynamic)
+msgid "Tor Project"
+msgstr ""
+
+#: (dynamic)
+msgid "Donate"
+msgstr ""
+
+#: (dynamic)
+msgid "Donate Now"
+msgstr ""
+
+#: (dynamic)
+msgid "Menu"
+msgstr ""
+
+#: (dynamic)
+msgid "About"
+msgstr ""
+
+#: (dynamic)
+msgid "Documentation"
+msgstr ""
+
+#: (dynamic)
+msgid "Support"
+msgstr ""
+
+#: (dynamic)
+msgid "Community"
+msgstr ""
+
+#: (dynamic)
+msgid "Blog"
+msgstr ""
+
+#: (dynamic)
+msgid "Download Tor Browser"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Download Tor Browser to experience real private browsing without tracking, "
+"surveillance, or censorship."
+msgstr ""
+
+#: (dynamic)
+msgid "Our mission:"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"To advance human rights and freedoms by creating and deploying free and open "
+"source anonymity and privacy technologies, supporting their unrestricted "
+"availability and use, and furthering their scientific and popular "
+"understanding."
+msgstr ""
+
+#: (dynamic)
+msgid "Jobs"
+msgstr ""
+
+#: (dynamic)
+msgid "Contact"
+msgstr ""
+
+#: (dynamic)
+msgid "Press"
+msgstr ""
+
+#: (dynamic)
+msgid "Subscribe to our Newsletter"
+msgstr ""
+
+#: (dynamic)
+msgid "Get monthly updates and opportunities from the Tor Project:"
+msgstr ""
+
+#: (dynamic)
+msgid "Sign up"
+msgstr ""
+
+#: (dynamic)
+msgid ""
+"Trademark, copyright notices, and rules for use by third parties can be "
+"found in our %(link_to_faq)s"
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.title)
+msgid "What is GetTor?"
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"GetTor is a service that provides alternative methods to download the Tor "
+"Browser, especially for people living in places with high levels of "
+"censorship, where access to Tor Project's website is restricted."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid "# How does it work?"
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid "The idea behind GetTor is very simple:"
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"- Step 1: Send a request to GetTor (gettor@torproject.org) specifying your "
+"operating system (and your locale). Ex: \"windows es\""
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"- Step 2: GetTor will send you back a reply with links to download Tor "
+"Browser from our supported providers."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"- Step 3: Download Tor Browser from one of the providers. When done, check "
+"the integrity of the downloaded files by verifying its signature."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid "- Step 4: If required, get some bridges!"
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid "## GetTor Responder on Twitter"
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid "GetTor is currently not working on Twitter."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid "## How to verify a digital signature"
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"Digital signature is a process ensuring that a certain package was generated "
+"by its developers and has not been tampered with."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"In GetTor emails we provide a link to a file with the same name as the "
+"package and the extension \".asc\". These .asc files are OpenPGP signatures."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"They allow you to verify the file you've downloaded is exactly the one that "
+"we intended you to get."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"For example, `torbrowser-install-win64-8.5.4_en-US.exe` is accompanied by "
+"`torbrowser-install-win64-8.5.4_en-US.exe.asc`."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"Check [how to verify a digital signature](https://support.torproject.org/tbb/"
+"how-to-verify-signature/)."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid "## How to get bridges"
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"Bridge relays are Tor relays that are not listed in the public Tor directory."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"That means that ISPs or governments trying to block access to the Tor "
+"network can't simply block all bridges."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"Bridges are useful for Tor users under oppressive regimes, and for people "
+"who want an extra layer of security because they're worried somebody will "
+"recognize that they are contacting a public Tor relay IP address."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"When you start TorBrowser for the first time you will be asked if you want "
+"to use bridges. To use pluggable transports, click 'Configure' in the Tor "
+"Launcher window that appears when you first run Tor Browser."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"You can also configure pluggable transports while Tor Browser is running by "
+"selecting 'Preferences' from the settings menu to the right of the address "
+"bar. Once in Preferences, navigate to 'Tor Settings' from the menu on the "
+"left of the screen."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"Select 'Tor is censored in my country,' then click 'Select a built-in "
+"bridge.' Click on the drop-down menu and select the pluggable transport "
+"you'd like to use."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid "Click 'OK' to save your settings."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"If built-in bridges do not work, you can also select 'Request a bridge from "
+"torproject.org'. This will require you solve a CAPTCHA and will "
+"automatically populate your settings with one or more bridges."
+msgstr ""
+
+#: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
+msgid ""
+"Another way to get bridges is to send an email to bridges@torproject.org. "
+"Please note that you must send the email using an address from one of the "
+"following email providers: Riseup or Gmail."
+msgstr ""
+
+#: lego/templates/banner.html:3 lego/templates/banner.html:5
+#: templates/banner.html:3 templates/banner.html:5
+msgid "Close banner"
+msgstr ""
+
+#: lego/templates/banner.html:11 templates/banner.html:11
+msgid "Use a Mask, Use Tor."
+msgstr ""
+
+#: lego/templates/banner.html:20 templates/banner.html:20
+msgid "Resist the surveillance pandemic."
+msgstr ""
+
+#: lego/templates/banner.html:32 templates/banner.html:32
+msgid "Your donation will be matched by Friends of Tor, up to $100,000."
+msgstr ""
+
+#: lego/templates/banner.html:40 templates/banner.html:40
+msgid "DONATE NOW"
+msgstr ""
+
+#: lego/templates/search.html:5
+msgid "Search"
+msgstr ""
+
+#: lego/templates/secure-connections.html:1
+msgid ""
+"The following visualization shows what information is visible to "
+"eavesdroppers with and without Tor Browser and HTTPS encryption:"
+msgstr ""
+
+#: lego/templates/secure-connections.html:4
+msgid ""
+"Click the “Tor” button to see what data is visible to observers when you're "
+"using Tor. The button will turn green to indicate that Tor is on."
+msgstr ""
+
+#: lego/templates/secure-connections.html:5
+msgid ""
+"Click the “HTTPS” button to see what data is visible to observers when "
+"you're using HTTPS. The button will turn green to indicate that HTTPS is on."
+msgstr ""
+
+#: lego/templates/secure-connections.html:6
+msgid ""
+"When both buttons are green, you see the data that is visible to observers "
+"when you are using both tools."
+msgstr ""
+
+#: lego/templates/secure-connections.html:7
+msgid ""
+"When both buttons are grey, you see the data that is visible to observers "
+"when you don't use either tool."
+msgstr ""
+
+#: lego/templates/secure-connections.html:11
+msgid "HTTPS"
+msgstr ""
+
+#: lego/templates/secure-connections.html:15
+#: lego/templates/secure-connections.html:65
+msgid "Tor"
+msgstr ""
+
+#: lego/templates/secure-connections.html:32
+msgid "POTENTIALLY VISIBLE DATA"
+msgstr ""
+
+#: lego/templates/secure-connections.html:37
+msgid "Site.com"
+msgstr ""
+
+#: lego/templates/secure-connections.html:40
+msgid "The site being visited."
+msgstr ""
+
+#: lego/templates/secure-connections.html:44
+msgid "user / pw"
+msgstr ""
+
+#: lego/templates/secure-connections.html:47
+msgid "Username and password used for authentication."
+msgstr ""
+
+#: lego/templates/secure-connections.html:51
+msgid "data"
+msgstr ""
+
+#: lego/templates/secure-connections.html:54
+msgid "Data being transmitted."
+msgstr ""
+
+#: lego/templates/secure-connections.html:58
+msgid "location"
+msgstr ""
+
+#: lego/templates/secure-connections.html:61
+msgid ""
+"Network location of the computer used to visit the website (the public IP "
+"address)."
+msgstr ""
+
+#: lego/templates/secure-connections.html:68
+msgid "Whether or not Tor is being used."
+msgstr ""
