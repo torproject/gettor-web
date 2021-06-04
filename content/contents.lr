@@ -13,7 +13,7 @@ The idea behind GetTor is very simple:
 
 - Step 2: GetTor will send you back a reply with links to download Tor Browser from our supported providers.
 
-- Step 3: Download Tor Browser from one of the providers. When done, check the integrity of the downloaded files by verifying its signature.
+- Step 3: Download Tor Browser from one of the providers. When done, check the integrity of the downloaded file by verifying its signature.
 
 - Step 4: If required, get some bridges!
 
