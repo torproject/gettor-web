@@ -17,5 +17,5 @@ RewriteRule ^ga-IE/(.*) /ga$1 [R=302,L]
 # but don't have a gettor website translation
 # You can see them at https://dist.torproject.org/torbrowser/, pick the last alpha for the most languages
 # this languages are the translation priority for the gettor website
-RewriteRule ^(ca|cs|da|ga|hu|is|ja|ko|lt|ms|nb-NO|nl|pt-PT|ro|ru|sv-SE|th|vi|zh-TW)$ / [R=302,L]
-RewriteRule ^(ca|cs|da|ga|hu|is|ja|ko|lt|ms|nb-NO|nl|pt-PT|ro|ru|sv-SE|th|vi|zh-TW)/(.*) /$2 [R=302,L]
+RewriteRule ^(cs|da|ga|is|ja|ko|lt|ms|nb-NO|pt-PT|ro|ru|sv-SE|th|vi)$ / [R=302,L]
+RewriteRule ^(cs|da|ga|is|ja|ko|lt|ms|nb-NO|pt-PT|ro|ru|sv-SE|th|vi)/(.*) /$2 [R=302,L]
