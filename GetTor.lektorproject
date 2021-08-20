@@ -4,6 +4,11 @@ url = https://gettor.torproject.org/
 url_style = relative
 locale = en
 
+[alternatives.ca]
+name = Català (ca)
+url_prefix = /ca/
+locale = ca
+
 [alternatives.en]
 name = English (en)
 primary = yes
@@ -19,6 +24,11 @@ locale = es
 name = Français
 url_prefix = /fr/
 locale = fr
+
+[alternatives.hu]
+name =  Magyar nyelv (hu)
+url_prefix = /hu/
+locale = hu
 
 [alternatives.pt-BR]
 name = Português (Brasil)
