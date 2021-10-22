@@ -13,7 +13,7 @@ The idea behind GetTor is very simple:
 
 - Step 2: GetTor will send you back a reply with links to download Tor Browser from our supported providers.
 
-- Step 3: Download Tor Browser from one of the providers. When done, check the integrity of the downloaded files by verifying its signature.
+- Step 3: Download Tor Browser from one of the providers. When done, check the integrity of the downloaded file by verifying its signature.
 
 - Step 4: If required, get some bridges!
 
@@ -37,11 +37,11 @@ Bridge relays are Tor relays that are not listed in the public Tor directory.
 That means that ISPs or governments trying to block access to the Tor network can't simply block all bridges.
 Bridges are useful for Tor users under oppressive regimes, and for people who want an extra layer of security because they're worried somebody will recognize that they are contacting a public Tor relay IP address.
 
-When you start TorBrowser for the first time you will be asked if you want to use bridges. To use pluggable transports, click 'Configure' in the Tor Launcher window that appears when you first run Tor Browser.
+When you start the Tor Browser for the first time you will be asked if you want to use bridges. To use pluggable transports, click 'Configure' in the Tor Launcher window that appears when you first run Tor Browser.
 
-You can also configure pluggable transports while Tor Browser is running by selecting 'Preferences' from the settings menu to the right of the address bar. Once in Preferences, navigate to 'Tor Settings' from the menu on the left of the screen.
+You can also configure pluggable transports while Tor Browser is running by selecting 'Preferences' from the settings menu to the right of the address bar. Once in Preferences, navigate to 'Tor' from the menu on the left of the screen.
 
-Select 'Tor is censored in my country,' then click 'Select a built-in bridge.' Click on the drop-down menu and select the pluggable transport you'd like to use.
+On the 'Bridges' section, select 'Use a bridge' and 'Select a built-in bridge.' Click on the drop-down menu and select the pluggable transport you'd like to use.
 
 Click 'OK' to save your settings.
 
