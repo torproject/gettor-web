@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-22 09:36+CET\n"
+"POT-Creation-Date: 2021-10-22 09:52+CET\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: en <LL@li.org>\n"
@@ -162,32 +162,28 @@ msgid "Close banner"
 msgstr ""
 
 #: lego/templates/banner.html:11 templates/banner.html:11
-msgid "Use a Mask, Use Tor."
+msgid "Privacy is a human right"
 msgstr ""
 
-#: lego/templates/banner.html:20 templates/banner.html:20
-msgid "Resist the surveillance pandemic."
+#: lego/templates/banner.html:15 templates/banner.html:15
+msgid "Your donation will be matched by Friends of Tor, up to $150,000."
 msgstr ""
 
-#: lego/templates/banner.html:32 templates/banner.html:32
+#: lego/templates/banner.html:26 templates/banner.html:26
 msgid "Your donation will be matched by Friends of Tor, up to $100,000."
 msgstr ""
 
-#: lego/templates/banner.html:38 lego/templates/footer.html:64
-#: lego/templates/footer.html:66 lego/templates/navbar.html:18
-#: lego/templates/navbar.html:20 templates/banner.html:38
-#: templates/footer.html:64 templates/footer.html:66 templates/navbar.html:18
-#: templates/navbar.html:20
-msgid "Donate Now"
+#: lego/templates/banner.html:32 templates/banner.html:32
+msgid "Donate now"
 msgstr ""
 
-#: lego/templates/banner.html:40 templates/banner.html:40
+#: lego/templates/banner.html:34 templates/banner.html:34
 msgid "DONATE NOW"
 msgstr ""
 
 #: lego/templates/footer.html:13 lego/templates/footer.html:22
-#: lego/templates/navbar.html:83 templates/footer.html:13
-#: templates/footer.html:22 templates/navbar.html:83
+#: lego/templates/navbar.html:95 templates/footer.html:13
+#: templates/footer.html:22 templates/navbar.html:95
 msgid "Download Tor Browser"
 msgstr ""
 
@@ -211,9 +207,17 @@ msgstr ""
 
 #: lego/templates/footer.html:64 lego/templates/footer.html:66
 #: lego/templates/navbar.html:18 lego/templates/navbar.html:20
+#: lego/templates/navbar.html:63 templates/footer.html:64
+#: templates/footer.html:66 templates/navbar.html:18 templates/navbar.html:20
+#: templates/navbar.html:63
+msgid "Donate"
+msgstr ""
+
+#: lego/templates/footer.html:64 lego/templates/footer.html:66
+#: lego/templates/navbar.html:18 lego/templates/navbar.html:20
 #: templates/footer.html:64 templates/footer.html:66 templates/navbar.html:18
 #: templates/navbar.html:20
-msgid "Donate"
+msgid "Donate Now"
 msgstr ""
 
 #: lego/templates/footer.html:75 templates/footer.html:75
@@ -237,6 +241,38 @@ msgstr ""
 
 #: lego/templates/navbar.html:25 templates/navbar.html:25
 msgid "Menu"
+msgstr ""
+
+#: lego/templates/navbar.html:55 templates/navbar.html:55
+msgid "About"
+msgstr ""
+
+#: lego/templates/navbar.html:56 templates/navbar.html:56
+msgid "Documentation"
+msgstr ""
+
+#: lego/templates/navbar.html:57 templates/navbar.html:57
+msgid "Support"
+msgstr ""
+
+#: lego/templates/navbar.html:58 templates/navbar.html:58
+msgid "Community"
+msgstr ""
+
+#: lego/templates/navbar.html:59 templates/navbar.html:59
+msgid "Blog"
+msgstr ""
+
+#: lego/templates/navbar.html:60 templates/navbar.html:60
+msgid "Jobs"
+msgstr ""
+
+#: lego/templates/navbar.html:61 templates/navbar.html:61
+msgid "Contact"
+msgstr ""
+
+#: lego/templates/navbar.html:62 templates/navbar.html:62
+msgid "Press"
 msgstr ""
 
 #: lego/templates/search.html:5
