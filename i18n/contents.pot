@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-17 07:56+CET\n"
+"POT-Creation-Date: 2021-10-22 09:36+CET\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: en <LL@li.org>\n"
@@ -10,94 +10,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: (dynamic)
-msgid "Tor Project"
-msgstr ""
-
-#: (dynamic)
-msgid "Donate"
-msgstr ""
-
-#: (dynamic)
-msgid "Donate Now"
-msgstr ""
-
-#: (dynamic)
-msgid "Menu"
-msgstr ""
-
-#: (dynamic)
-msgid "About"
-msgstr ""
-
-#: (dynamic)
-msgid "Documentation"
-msgstr ""
-
-#: (dynamic)
-msgid "Support"
-msgstr ""
-
-#: (dynamic)
-msgid "Community"
-msgstr ""
-
-#: (dynamic)
-msgid "Blog"
-msgstr ""
-
-#: (dynamic)
-msgid "Download Tor Browser"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Download Tor Browser to experience real private browsing without tracking, "
-"surveillance, or censorship."
-msgstr ""
-
-#: (dynamic)
-msgid "Our mission:"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"To advance human rights and freedoms by creating and deploying free and open "
-"source anonymity and privacy technologies, supporting their unrestricted "
-"availability and use, and furthering their scientific and popular "
-"understanding."
-msgstr ""
-
-#: (dynamic)
-msgid "Jobs"
-msgstr ""
-
-#: (dynamic)
-msgid "Contact"
-msgstr ""
-
-#: (dynamic)
-msgid "Press"
-msgstr ""
-
-#: (dynamic)
-msgid "Subscribe to our Newsletter"
-msgstr ""
-
-#: (dynamic)
-msgid "Get monthly updates and opportunities from the Tor Project:"
-msgstr ""
-
-#: (dynamic)
-msgid "Sign up"
-msgstr ""
-
-#: (dynamic)
-msgid ""
-"Trademark, copyright notices, and rules for use by third parties can be "
-"found in our %(link_to_faq)s"
-msgstr ""
 
 #: https://gettor.torproject.org/ (content/contents+en.lr:page.title)
 msgid "What is GetTor?"
@@ -133,7 +45,7 @@ msgstr ""
 #: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
 msgid ""
 "- Step 3: Download Tor Browser from one of the providers. When done, check "
-"the integrity of the downloaded files by verifying its signature."
+"the integrity of the downloaded file by verifying its signature."
 msgstr ""
 
 #: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
@@ -206,22 +118,22 @@ msgstr ""
 
 #: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
 msgid ""
-"When you start TorBrowser for the first time you will be asked if you want "
-"to use bridges. To use pluggable transports, click 'Configure' in the Tor "
-"Launcher window that appears when you first run Tor Browser."
+"When you start the Tor Browser for the first time you will be asked if you "
+"want to use bridges. To use pluggable transports, click 'Configure' in the "
+"Tor Launcher window that appears when you first run Tor Browser."
 msgstr ""
 
 #: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
 msgid ""
 "You can also configure pluggable transports while Tor Browser is running by "
 "selecting 'Preferences' from the settings menu to the right of the address "
-"bar. Once in Preferences, navigate to 'Tor Settings' from the menu on the "
-"left of the screen."
+"bar. Once in Preferences, navigate to 'Tor' from the menu on the left of the "
+"screen."
 msgstr ""
 
 #: https://gettor.torproject.org/ (content/contents+en.lr:page.body)
 msgid ""
-"Select 'Tor is censored in my country,' then click 'Select a built-in "
+"On the 'Bridges' section, select 'Use a bridge' and 'Select a built-in "
 "bridge.' Click on the drop-down menu and select the pluggable transport "
 "you'd like to use."
 msgstr ""
@@ -261,8 +173,70 @@ msgstr ""
 msgid "Your donation will be matched by Friends of Tor, up to $100,000."
 msgstr ""
 
+#: lego/templates/banner.html:38 lego/templates/footer.html:64
+#: lego/templates/footer.html:66 lego/templates/navbar.html:18
+#: lego/templates/navbar.html:20 templates/banner.html:38
+#: templates/footer.html:64 templates/footer.html:66 templates/navbar.html:18
+#: templates/navbar.html:20
+msgid "Donate Now"
+msgstr ""
+
 #: lego/templates/banner.html:40 templates/banner.html:40
 msgid "DONATE NOW"
+msgstr ""
+
+#: lego/templates/footer.html:13 lego/templates/footer.html:22
+#: lego/templates/navbar.html:83 templates/footer.html:13
+#: templates/footer.html:22 templates/navbar.html:83
+msgid "Download Tor Browser"
+msgstr ""
+
+#: lego/templates/footer.html:14 templates/footer.html:14
+msgid ""
+"Download Tor Browser to experience real private browsing without tracking, "
+"surveillance, or censorship."
+msgstr ""
+
+#: lego/templates/footer.html:35 templates/footer.html:35
+msgid "Our mission:"
+msgstr ""
+
+#: lego/templates/footer.html:36 templates/footer.html:36
+msgid ""
+"To advance human rights and freedoms by creating and deploying free and open "
+"source anonymity and privacy technologies, supporting their unrestricted "
+"availability and use, and furthering their scientific and popular "
+"understanding."
+msgstr ""
+
+#: lego/templates/footer.html:64 lego/templates/footer.html:66
+#: lego/templates/navbar.html:18 lego/templates/navbar.html:20
+#: templates/footer.html:64 templates/footer.html:66 templates/navbar.html:18
+#: templates/navbar.html:20
+msgid "Donate"
+msgstr ""
+
+#: lego/templates/footer.html:75 templates/footer.html:75
+msgid "Subscribe to our Newsletter"
+msgstr ""
+
+#: lego/templates/footer.html:76 templates/footer.html:76
+msgid "Get monthly updates and opportunities from the Tor Project:"
+msgstr ""
+
+#: lego/templates/footer.html:77 templates/footer.html:77
+msgid "Sign up"
+msgstr ""
+
+#: lego/templates/footer.html:98 templates/footer.html:98
+#, python-format
+msgid ""
+"Trademark, copyright notices, and rules for use by third parties can be "
+"found in our %(link_to_faq)s"
+msgstr ""
+
+#: lego/templates/navbar.html:25 templates/navbar.html:25
+msgid "Menu"
 msgstr ""
 
 #: lego/templates/search.html:5
@@ -348,4 +322,8 @@ msgstr ""
 
 #: lego/templates/secure-connections.html:68
 msgid "Whether or not Tor is being used."
+msgstr ""
+
+#: templates/meta.html:7
+msgid "Tor Project"
 msgstr ""
