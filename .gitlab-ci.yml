@@ -1,0 +1,7 @@
+variables:
+  TRANSLATION_BRANCH: "gettor-website-contentspot"
+
+include:
+  project: tpo/tpa/ci-templates
+  file: lektor.yml
+  ref: lektor-builds
